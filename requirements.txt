@@ -1,0 +1,8 @@
+gradio
+chromadb
+google-generativeai
+sentence-transformers
+pypdf
+python-dotenv
+torch
+transformers
